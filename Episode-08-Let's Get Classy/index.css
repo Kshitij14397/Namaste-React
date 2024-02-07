@@ -1,0 +1,82 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.logo {
+    width: 140px;
+}
+
+.nav-items {
+    padding: 0px 20px;
+}
+
+.nav-items > ul {
+    font-size: 24px;
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-items > ul > li {
+    padding: 10px;
+    margin: 10px;
+}
+
+.res-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.res-card {
+    margin: 5px;
+    padding: 10px;
+    width: 220px;
+}
+
+.res-card:hover {
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+.search {
+    padding: 10px;
+}
+
+.res-image {
+    width: 100%;
+    height: 220px;
+}
+
+.shimmer-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card {
+    margin: 5px;
+    padding: 10px;
+    width: 220px;
+    height: 400px;
+    background-color: #f0f0f0;
+}
+
+.login {
+    padding: 0 20px;
+    cursor: pointer
+}
+
+.filter {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.filter-btn {
+    height: 21px;
+    margin: 10px 0px;
+}
+
+.user-card {
+    padding: 10px;
+    border: 1px solid black;
+}
