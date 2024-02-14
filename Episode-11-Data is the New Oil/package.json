@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Learning React from Namaste React",
+  "scripts": {
+    "test": "Jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Kshitij Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "postcss": "^8.4.35",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
