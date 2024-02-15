@@ -178,3 +178,5 @@ import {Component} from "path"
 - UserContext.Provider component replaces the default value of React Context. I can use this component for a specific portion of our app.
 - React Context is very performant.
 - Redux is a state/data management library. It is not inside React.
+- When creating small-sized or medium size React Applications prefer using React Context.
+- When creating large-sized React Applications prefer using Redux.
