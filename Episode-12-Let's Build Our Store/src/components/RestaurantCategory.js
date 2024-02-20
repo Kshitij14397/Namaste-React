@@ -5,7 +5,6 @@ const RestaurantCategory = ({ data, showItems, setShowCategory, index }) => {
   const { title, itemCards } = data;
 
   const handleClick = () => {
-    console.log("kp1");
     setShowCategory();
   };
 
