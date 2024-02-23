@@ -10,22 +10,15 @@ const RestaurantMenu = () => {
   const [showCategory, setShowCategory] = useState({ index: 0, visible: true });
 
   //Custom Hook
-  const restaurantInfo = useRestaurantMenu(resId);
+  const menuInfo = useRestaurantMenu(resId);
 
-  if (restaurantInfo === null) {
+  if (menuInfo === null) {
     return <Shimmer />;
   }
 
-  const { name, cuisines, costForTwoMessage } =
-    restaurantInfo?.cards?.[2]?.card?.card?.info;
+  const { name, cuisines, costForTwoMessage } = menuInfo?.restaurantInfo;
 
-  const categories =
-    restaurantInfo?.cards?.[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards.filter(
-      (card) =>
-        card?.card?.card?.["@type"] ===
-        "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory"
-    );
-
+  const categories = menuInfo?.categoriesInfo?.categories;
   return (
     <div className="text-center">
       <h1 className="font-bold my-6 text-2xl">{name}</h1>
