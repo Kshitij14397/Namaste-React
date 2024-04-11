@@ -216,3 +216,34 @@ import {Component} from "path"
 - Basically suppose if you want to make an API call and want to store the data inside redux store, so there used to be a design pattern or coding pattern which use middlewares and thunks in old Vanilla Redux.
 Now with RTK, we have new something known as RTK Query.
 
+# Episode 13: Time For Test
+- There are two types of Testing that developers can perform:
+    i) Manual Testing: Testing the feature or any part of the application by himself.
+    ii) Testing by writing code(Test cases + some code) that will test the application.
+- In the second scenario we have 3 more types of Testing:
+    i) Unit Testing: You test your React Components in isolation. Only that React Component will be rendered and tested.
+    ii) Integration Testing: There are multiple components and they are talking to each other and we will develop a flow of an action in our React Application, that we will test.
+    iii) End To End Testing - e2e Testing: Testing the React Application as soon as the user lands on the website to the user leaves the website and we will test all the flows(Testing your whole application flow). It's kind of simulating what the user will do throughout the App.
+- End to End Testing requires different types of tools like Selenium etc.
+- React Testing Library is built on top of DOM Testing Library.
+- React Testing Library uses something known as Jest behind the scenes.
+- Jest uses Babel behind the scenes.
+
+# Setting up Testing in our app
+- Install React Testing Library
+- Installed Jest
+- Installed Babel dependencies
+- Configure Babel
+- Configure Parcel Config file to disable default babel transpilation
+- Jest configuration: npx jest --init
+- Install jsdom library
+- Install @babel/preset-react - to make JSX work in test cases
+- Include @babel/preset-react inside my babel config
+- Install @testing-library/jest-dom 
+
+- "--" is known as dunder.
+- In every test case you will render something, query something and assert something.
+- test and it are both the same thing.
+- jsdom environment understands JSX code. It does not understand redux code.
+- Every test case has an isolated render, query and assert in it.
+- jsdom is browser like environment.
