@@ -1,0 +1,43 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Learning React from Namaste React",
+  "scripts": {
+    "test": "jest",
+    "watch-test": "jest --watch",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "jest":{
+    "testEnvironment": "jsdom",    
+    "collectCoverage": true,
+    "coverageReporters": ["html", "text"],
+    "coverageDirectory": "coverage" 
+},
+  "author": "Kshitij Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.21.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "@babel/preset-react": "^7.24.1",
+    "@testing-library/jest-dom": "^6.4.2",
+    "@testing-library/react": "^14.2.1",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "parcel": "^2.11.0",
+    "postcss": "^8.4.35",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}

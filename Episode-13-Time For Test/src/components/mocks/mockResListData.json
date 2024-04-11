@@ -1,0 +1,726 @@
+{
+    "status": "success",
+    "results": 9,
+    "data": {
+        "restaurants": [
+            {
+                "info": {
+                    "id": "655878",
+                    "name": "Chinese Wok",
+                    "cloudinaryImageId": "e0839ff574213e6f35b3899ebf1fc597",
+                    "locality": "Kalka Devi Marg",
+                    "areaName": "Amar Colony",
+                    "costForTwo": "₹250 for two",
+                    "cuisines": [
+                        "Chinese",
+                        "Asian",
+                        "Tibetan",
+                        "Desserts"
+                    ],
+                    "avgRating": 4.1,
+                    "parentId": "61955",
+                    "avgRatingString": "4.1",
+                    "totalRatingsString": "1K+",
+                    "sla": {
+                        "deliveryTime": 36,
+                        "lastMileTravel": 9.4,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "9.4 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                        "nextCloseTime": "2024-04-11 03:00:00",
+                        "opened": true
+                    },
+                    "badges": {},
+                    "isOpen": true,
+                    "type": "F",
+                    "badgesV2": {
+                        "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                        }
+                    },
+                    "aggregatedDiscountInfoV3": {
+                        "header": "ITEMS",
+                        "subHeader": "AT ₹149"
+                    },
+                    "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                    },
+                    "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                        }
+                    },
+                    "reviewsSummary": {},
+                    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                    "restaurantOfferPresentationInfo": {}
+                },
+                "analytics": {
+                    "context": "seo-data-91e7dafc-f1f6-4a7e-a0ce-4e83dd929897"
+                },
+                "cta": {
+                    "link": "https://www.swiggy.com/restaurants/chinese-wok-kalka-devi-marg-amar-colony-delhi-655878",
+                    "text": "RESTAURANT_MENU",
+                    "type": "WEBLINK"
+                },
+                "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            },
+            {
+                "info": {
+                    "id": "286518",
+                    "name": "UBQ by Barbeque Nation",
+                    "cloudinaryImageId": "ru7j7x8qqtvuzfuw7cdh",
+                    "locality": "N Block",
+                    "areaName": "Janpath",
+                    "costForTwo": "₹300 for two",
+                    "cuisines": [
+                        "North Indian",
+                        "Barbecue",
+                        "Biryani",
+                        "Kebabs",
+                        "Mughlai",
+                        "Desserts"
+                    ],
+                    "avgRating": 4.1,
+                    "parentId": "10804",
+                    "avgRatingString": "4.1",
+                    "totalRatingsString": "1K+",
+                    "sla": {
+                        "deliveryTime": 27,
+                        "lastMileTravel": 2.9,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "25-30 mins",
+                        "lastMileTravelString": "2.9 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                        "nextCloseTime": "2024-04-10 23:30:00",
+                        "opened": true
+                    },
+                    "badges": {},
+                    "isOpen": true,
+                    "type": "F",
+                    "badgesV2": {
+                        "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                        }
+                    },
+                    "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹90"
+                    },
+                    "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                    },
+                    "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                        }
+                    },
+                    "reviewsSummary": {},
+                    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                    "restaurantOfferPresentationInfo": {}
+                },
+                "analytics": {
+                    "context": "seo-data-91e7dafc-f1f6-4a7e-a0ce-4e83dd929897"
+                },
+                "cta": {
+                    "link": "https://www.swiggy.com/restaurants/ubq-by-barbeque-nation-n-block-janpath-delhi-286518",
+                    "text": "RESTAURANT_MENU",
+                    "type": "WEBLINK"
+                },
+                "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            },
+            {
+                "info": {
+                    "id": "836075",
+                    "name": "California Burrito",
+                    "cloudinaryImageId": "e04891a30defbfcc39a318cd3246c8dd",
+                    "locality": "ASHOK NAGAR",
+                    "areaName": "Karol Bagh",
+                    "costForTwo": "₹250 for two",
+                    "cuisines": [
+                        "Mexican",
+                        "American",
+                        "Salads",
+                        "Continental",
+                        "Keto",
+                        "Healthy Food"
+                    ],
+                    "avgRating": 4.6,
+                    "parentId": "1252",
+                    "avgRatingString": "4.6",
+                    "totalRatingsString": "100+",
+                    "sla": {
+                        "deliveryTime": 36,
+                        "lastMileTravel": 5.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "5.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                        "nextCloseTime": "2024-04-10 23:00:00",
+                        "opened": true
+                    },
+                    "badges": {},
+                    "isOpen": true,
+                    "type": "F",
+                    "badgesV2": {
+                        "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                        }
+                    },
+                    "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹100"
+                    },
+                    "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                    },
+                    "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                        }
+                    },
+                    "reviewsSummary": {},
+                    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                    "isNewlyOnboarded": true,
+                    "restaurantOfferPresentationInfo": {}
+                },
+                "analytics": {
+                    "context": "seo-data-91e7dafc-f1f6-4a7e-a0ce-4e83dd929897"
+                },
+                "cta": {
+                    "link": "https://www.swiggy.com/restaurants/california-burrito-ashok-nagar-karol-bagh-delhi-836075",
+                    "text": "RESTAURANT_MENU",
+                    "type": "WEBLINK"
+                },
+                "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            },
+            {
+                "info": {
+                    "id": "350707",
+                    "name": "Monginis",
+                    "cloudinaryImageId": "zaje9twchacwlhdbh6hk",
+                    "locality": "Rajinder Nagar",
+                    "areaName": "Karol Bagh",
+                    "costForTwo": "₹250 for two",
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "avgRating": 4.5,
+                    "veg": true,
+                    "parentId": "5007",
+                    "avgRatingString": "4.5",
+                    "totalRatingsString": "100+",
+                    "sla": {
+                        "deliveryTime": 31,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "30-35 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                        "nextCloseTime": "2024-04-11 00:00:00",
+                        "opened": true
+                    },
+                    "badges": {
+                        "imageBadges": [
+                            {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                            }
+                        ]
+                    },
+                    "isOpen": true,
+                    "aggregatedDiscountInfoV2": {},
+                    "type": "F",
+                    "badgesV2": {
+                        "entityBadges": {
+                            "imageBased": {
+                                "badgeObject": [
+                                    {
+                                        "attributes": {
+                                            "description": "pureveg",
+                                            "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                        }
+                                    }
+                                ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                        }
+                    },
+                    "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                    },
+                    "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                        }
+                    },
+                    "reviewsSummary": {},
+                    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                    "restaurantOfferPresentationInfo": {}
+                },
+                "analytics": {
+                    "context": "seo-data-91e7dafc-f1f6-4a7e-a0ce-4e83dd929897"
+                },
+                "cta": {
+                    "link": "https://www.swiggy.com/restaurants/monginis-rajinder-nagar-karol-bagh-delhi-350707",
+                    "text": "RESTAURANT_MENU",
+                    "type": "WEBLINK"
+                },
+                "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            },
+            {
+                "info": {
+                    "id": "822332",
+                    "name": "Chicago pizza",
+                    "cloudinaryImageId": "4f9afba9112485d52b7c706ff07d0b97",
+                    "locality": "South Campus",
+                    "areaName": "South Campus",
+                    "costForTwo": "₹300 for two",
+                    "cuisines": [
+                        "Pizzas",
+                        "Pastas"
+                    ],
+                    "avgRating": 3.7,
+                    "parentId": "60277",
+                    "avgRatingString": "3.7",
+                    "totalRatingsString": "10+",
+                    "sla": {
+                        "deliveryTime": 38,
+                        "lastMileTravel": 7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "7.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                        "nextCloseTime": "2024-04-10 23:59:00",
+                        "opened": true
+                    },
+                    "badges": {},
+                    "isOpen": true,
+                    "type": "F",
+                    "badgesV2": {
+                        "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                        }
+                    },
+                    "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                    },
+                    "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                    },
+                    "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                        }
+                    },
+                    "reviewsSummary": {},
+                    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                    "isNewlyOnboarded": true,
+                    "restaurantOfferPresentationInfo": {}
+                },
+                "analytics": {
+                    "context": "seo-data-91e7dafc-f1f6-4a7e-a0ce-4e83dd929897"
+                },
+                "cta": {
+                    "link": "https://www.swiggy.com/restaurants/chicago-pizza-south-campus-delhi-822332",
+                    "text": "RESTAURANT_MENU",
+                    "type": "WEBLINK"
+                },
+                "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            },
+            {
+                "info": {
+                    "id": "24207",
+                    "name": "Domino's Pizza",
+                    "cloudinaryImageId": "d0450ce1a6ba19ea60cd724471ed54a8",
+                    "locality": "Connaught Place",
+                    "areaName": "Connaught Place",
+                    "costForTwo": "₹400 for two",
+                    "cuisines": [
+                        "Pizzas",
+                        "Italian",
+                        "Pastas",
+                        "Desserts"
+                    ],
+                    "avgRating": 4.3,
+                    "parentId": "2456",
+                    "avgRatingString": "4.3",
+                    "totalRatingsString": "10K+",
+                    "sla": {
+                        "deliveryTime": 25,
+                        "lastMileTravel": 3.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "25 mins",
+                        "lastMileTravelString": "3.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                        "nextCloseTime": "2024-04-11 02:55:00",
+                        "opened": true
+                    },
+                    "badges": {
+                        "imageBadges": [
+                            {
+                                "imageId": "Rxawards/_CATEGORY-Pizza.png",
+                                "description": "Delivery!"
+                            }
+                        ]
+                    },
+                    "isOpen": true,
+                    "type": "F",
+                    "badgesV2": {
+                        "entityBadges": {
+                            "imageBased": {
+                                "badgeObject": [
+                                    {
+                                        "attributes": {
+                                            "description": "Delivery!",
+                                            "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                                        }
+                                    }
+                                ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                        }
+                    },
+                    "aggregatedDiscountInfoV3": {
+                        "header": "20% OFF",
+                        "subHeader": "UPTO ₹50"
+                    },
+                    "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                    },
+                    "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                        }
+                    },
+                    "reviewsSummary": {},
+                    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                    "restaurantOfferPresentationInfo": {}
+                },
+                "analytics": {
+                    "context": "seo-data-91e7dafc-f1f6-4a7e-a0ce-4e83dd929897"
+                },
+                "cta": {
+                    "link": "https://www.swiggy.com/restaurants/dominos-pizza-connaught-place-delhi-24207",
+                    "text": "RESTAURANT_MENU",
+                    "type": "WEBLINK"
+                },
+                "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            },
+            {
+                "info": {
+                    "id": "26719",
+                    "name": "KFC",
+                    "cloudinaryImageId": "f01666ac73626461d7455d9c24005cd4",
+                    "locality": "Janpath Road",
+                    "areaName": "Connaught Place",
+                    "costForTwo": "₹400 for two",
+                    "cuisines": [
+                        "Burgers",
+                        "Biryani",
+                        "American",
+                        "Snacks",
+                        "Fast Food"
+                    ],
+                    "avgRating": 4.4,
+                    "parentId": "547",
+                    "avgRatingString": "4.4",
+                    "totalRatingsString": "5K+",
+                    "sla": {
+                        "deliveryTime": 20,
+                        "lastMileTravel": 2.5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "20-25 mins",
+                        "lastMileTravelString": "2.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                        "nextCloseTime": "2024-04-10 23:00:00",
+                        "opened": true
+                    },
+                    "badges": {
+                        "imageBadges": [
+                            {
+                                "imageId": "Rxawards/_CATEGORY-Burger.png",
+                                "description": "Delivery!"
+                            }
+                        ]
+                    },
+                    "isOpen": true,
+                    "aggregatedDiscountInfoV2": {},
+                    "type": "F",
+                    "badgesV2": {
+                        "entityBadges": {
+                            "imageBased": {
+                                "badgeObject": [
+                                    {
+                                        "attributes": {
+                                            "description": "Delivery!",
+                                            "imageId": "Rxawards/_CATEGORY-Burger.png"
+                                        }
+                                    }
+                                ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                        }
+                    },
+                    "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                    },
+                    "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                        }
+                    },
+                    "reviewsSummary": {},
+                    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                    "restaurantOfferPresentationInfo": {}
+                },
+                "analytics": {
+                    "context": "seo-data-91e7dafc-f1f6-4a7e-a0ce-4e83dd929897"
+                },
+                "cta": {
+                    "link": "https://www.swiggy.com/restaurants/kfc-janpath-road-connaught-place-delhi-26719",
+                    "text": "RESTAURANT_MENU",
+                    "type": "WEBLINK"
+                },
+                "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            },
+            {
+                "info": {
+                    "id": "16865",
+                    "name": "Pizza Hut",
+                    "cloudinaryImageId": "2b4f62d606d1b2bfba9ba9e5386fabb7",
+                    "locality": "Near Tibetian Market",
+                    "areaName": "Connaught Place",
+                    "costForTwo": "₹350 for two",
+                    "cuisines": [
+                        "Pizzas"
+                    ],
+                    "avgRating": 4,
+                    "parentId": "721",
+                    "avgRatingString": "4.0",
+                    "totalRatingsString": "1K+",
+                    "sla": {
+                        "deliveryTime": 29,
+                        "lastMileTravel": 2.5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "25-30 mins",
+                        "lastMileTravelString": "2.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                        "nextCloseTime": "2024-04-10 23:00:00",
+                        "opened": true
+                    },
+                    "badges": {
+                        "imageBadges": [
+                            {
+                                "imageId": "Rxawards/_CATEGORY-Pizza.png",
+                                "description": "Delivery!"
+                            }
+                        ]
+                    },
+                    "isOpen": true,
+                    "type": "F",
+                    "badgesV2": {
+                        "entityBadges": {
+                            "imageBased": {
+                                "badgeObject": [
+                                    {
+                                        "attributes": {
+                                            "description": "Delivery!",
+                                            "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                                        }
+                                    }
+                                ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                        }
+                    },
+                    "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹100"
+                    },
+                    "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                    },
+                    "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                        }
+                    },
+                    "reviewsSummary": {},
+                    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                    "restaurantOfferPresentationInfo": {}
+                },
+                "analytics": {
+                    "context": "seo-data-91e7dafc-f1f6-4a7e-a0ce-4e83dd929897"
+                },
+                "cta": {
+                    "link": "https://www.swiggy.com/restaurants/pizza-hut-near-tibetian-market-connaught-place-delhi-16865",
+                    "text": "RESTAURANT_MENU",
+                    "type": "WEBLINK"
+                },
+                "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            },
+            {
+                "info": {
+                    "id": "253718",
+                    "name": "McDonald's",
+                    "cloudinaryImageId": "535fc9f9c135f7982317bbb6a64a1ffc",
+                    "locality": "Tolstoy Marg",
+                    "areaName": "Janpath",
+                    "costForTwo": "₹400 for two",
+                    "cuisines": [
+                        "American"
+                    ],
+                    "avgRating": 4.5,
+                    "parentId": "630",
+                    "avgRatingString": "4.5",
+                    "totalRatingsString": "5K+",
+                    "sla": {
+                        "deliveryTime": 24,
+                        "lastMileTravel": 2.5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "20-25 mins",
+                        "lastMileTravelString": "2.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                        "nextCloseTime": "2024-04-10 23:00:00",
+                        "opened": true
+                    },
+                    "badges": {
+                        "imageBadges": [
+                            {
+                                "imageId": "Rxawards/_CATEGORY-Burger.png",
+                                "description": "Delivery!"
+                            }
+                        ]
+                    },
+                    "isOpen": true,
+                    "aggregatedDiscountInfoV2": {},
+                    "type": "F",
+                    "badgesV2": {
+                        "entityBadges": {
+                            "imageBased": {
+                                "badgeObject": [
+                                    {
+                                        "attributes": {
+                                            "description": "Delivery!",
+                                            "imageId": "Rxawards/_CATEGORY-Burger.png"
+                                        }
+                                    }
+                                ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                        }
+                    },
+                    "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                    },
+                    "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                        }
+                    },
+                    "reviewsSummary": {},
+                    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                    "restaurantOfferPresentationInfo": {}
+                },
+                "analytics": {
+                    "context": "seo-data-91e7dafc-f1f6-4a7e-a0ce-4e83dd929897"
+                },
+                "cta": {
+                    "link": "https://www.swiggy.com/restaurants/mcdonalds-tolstoy-marg-janpath-delhi-253718",
+                    "text": "RESTAURANT_MENU",
+                    "type": "WEBLINK"
+                },
+                "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            }
+        ]
+    }
+}

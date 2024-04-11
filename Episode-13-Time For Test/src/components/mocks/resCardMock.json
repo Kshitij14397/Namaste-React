@@ -1,0 +1,66 @@
+{
+    "info": {
+        "id": "113610",
+        "name": "Chinese Wok",
+        "cloudinaryImageId": "72b1940ef0473dde181e043a916b7924",
+        "locality": "Lajpat Nagar",
+        "areaName": "Lajpat Nagar",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+            "Chinese"
+        ],
+        "avgRating": 3.8,
+        "parentId": "61955",
+        "avgRatingString": "3.8",
+        "totalRatingsString": "100+",
+        "sla": {
+            "deliveryTime": 36,
+            "lastMileTravel": 7.2,
+            "serviceability": "SERVICEABLE",
+            "slaString": "35-40 mins",
+            "lastMileTravelString": "7.2 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-04-08 22:45:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+        "context": "seo-data-b4ab9857-09a9-4c58-87b4-9eafc82f276a"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/chinese-wok-lajpat-nagar-delhi-113610",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}
